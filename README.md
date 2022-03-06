@@ -1,4 +1,5 @@
 # vietnote
+I will use MS-Learn : https://docs.microsoft.com/en-us/learn/modules/react-get-started/
 
 I aimed to have a job in RemNote.. Current Goal: **Frontend Engineer Intern** - https://jobs.lever.co/remnote/fb651aab-6b15-4240-9577-88dca120ac64
 
