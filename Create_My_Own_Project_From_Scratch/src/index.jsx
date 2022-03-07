@@ -4,6 +4,5 @@ import App from './App';
 
 ReactDOM.render(
     <App />,
-    <p>Anh Yêu Em</p>,
     document.getElementById('app')
 );
