@@ -1,4 +1,0 @@
-[submodule "mslearn-react"]
-	path = mslearn-react
-	url = git@github.com:TaQuangKhoi/mslearn-react.git
-	branch = main
